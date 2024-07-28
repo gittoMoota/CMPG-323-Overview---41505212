@@ -1,5 +1,5 @@
-# **ENVIRONMENT DETAILS** #
 
-## ** DEVELOPMENT** ##
+
+## **DEVELOPMENT** ##
 
 ## **DESIGN** ##
