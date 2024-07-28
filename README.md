@@ -19,5 +19,6 @@ Project 5: CMPG323 Reporting---41505212
 
 ## **BRANCHING STRATEGY**
 
+Each project will follow the Git branching strategy where a branch starts on the default branch, which is the main branch. The branch grows a separate history chain as commits are added. Eventually, these commits merge into the main branch. The ultimate goal is to let developers do what they need to do without stepping on one another and to end up with a main branch that represents the best efforts of everyone involved. When working on a branch to add a new feature or fix a bug, you can use the git merge command to merge that work into the default branch.
 
 
