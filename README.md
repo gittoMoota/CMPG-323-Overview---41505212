@@ -21,6 +21,8 @@ Project 5: CMPG323 Reporting---41505212
 
 [Errors & Exeptions](docs/errors-and-exceptions.md)
 
+[Environment Details](docs/environment-details.md)
+
 
 
 
