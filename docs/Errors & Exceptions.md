@@ -1,3 +1,3 @@
-## **Business Exeptions** ##
+## **Business Exceptions** ##
 
 ## **Application Errors** ##
