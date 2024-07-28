@@ -17,7 +17,8 @@ Project 5: CMPG323 Reporting---41505212
 
 ## **DOCUMENTATION**
 
-[Solution Design](https://github.com/gittoMoota/CMPG-323-Overview---41505212/blob/main/docs/solution-design.md)
+[Solution Design](docs/solution-design.md)
+
 [Errors & Exeptions](docs/errors-and-exceptions.md)
 
 
