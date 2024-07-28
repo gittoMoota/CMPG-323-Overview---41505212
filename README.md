@@ -17,7 +17,7 @@ Project 5: CMPG323 Reporting---41505212
 
 ## **DOCUMENTATION**
 
-[Solution Design](doc/Solution_Design.md)
+![Solution Design](solution-design.md)
 
 
 ## **BRANCHING STRATEGY**
