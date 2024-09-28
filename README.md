@@ -5,7 +5,7 @@ The Agile approach to project management aims to achieve a goal in small increme
 
 ## **REPOSITORIES**
 
-Project 2: CMPG323 Web API---41505212
+Project 2: CMPG323 Web API---41505212(https://github.com/gittoMoota/CMPG-323-Project-2---41505212)
 
 Project 3: [CMPG323 Web App---41505212](https://github.com/gittoMoota/CMPG-323-Project-3--41505212)
 
